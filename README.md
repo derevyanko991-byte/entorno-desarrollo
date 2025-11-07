@@ -5,4 +5,4 @@
 - Live Server
 - Prettier - Code Formatter
 - HTML CSS Support
-- IntelliSense for CSS class names in HTML
+- Material Icon Theme
